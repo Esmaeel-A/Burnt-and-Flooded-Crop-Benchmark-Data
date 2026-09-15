@@ -467,11 +467,12 @@ The steps, options and outputs of each pipeline are in its folder's README.
 
 
 <p align="center">
-  <img src="figures/logos/institution_1.png" alt="Institution 1" height="70">
+  <img src="figures/logos/institution_3.png" alt="Institution 3" height="70">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="figures/logos/institution_2.png" alt="Institution 2" height="70">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="figures/logos/institution_3.png" alt="Institution 3" height="70">
+  <img src="figures/logos/institution_1.png" alt="Institution 1" height="70">
+  
 </p>
 
 <p align="center">
