@@ -467,7 +467,7 @@ The steps, options and outputs of each pipeline are in its folder's README.
 
 
 <p align="center">
-  <img src="figures/logos/Utah.png" alt="Utah" height="70">
+  <img src="figures/logos/Utah_updated.png" alt="Utah_updated" height="70">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="figures/logos/Kent.png" alt="Kent" height="70">
   &nbsp;&nbsp;&nbsp;&nbsp;
