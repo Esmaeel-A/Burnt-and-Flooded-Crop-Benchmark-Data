@@ -467,21 +467,21 @@ The steps, options and outputs of each pipeline are in its folder's README.
 
 
 <p align="center">
-  <img src="figures/logos/institution_3.png" alt="Institution 3" height="70">
+  <img src="figures/logos/Utah.png" alt="Utah" height="70">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="figures/logos/institution_1.png" alt="Institution 1" height="70">
+  <img src="figures/logos/Kent.png" alt="Kent" height="70">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="figures/logos/institution_2.png" alt="Institution 2" height="70">
+  <img src="figures/logos/Oregon.png" alt="Oregon" height="70">
   
 </p>
 
 <p align="center">
-  <img src="figures/logos/institution_4.png" alt="Institution 4" height="80">
+  <img src="figures/logos/Sensland.png" alt="Sensland" height="80">
 </p>
 
 **Funding:** *This research was funded by NASA Disaster Program Grant number#* (to be added).
 
 <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="figures/logos/funder.png" alt="Funder" height="150">
+  <img src="figures/logos/NASA.png" alt="NASA" height="150">
 </p>
