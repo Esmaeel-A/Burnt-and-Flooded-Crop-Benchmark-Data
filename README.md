@@ -134,18 +134,6 @@ and bands 2–5 describe each pixel:
 | 4 | cropland (0/1) | cropland (0/1) |
 | 5 | flood persistence, 0–100: % of valid Sentinel-1 overpasses flooded; 255 = not observed | burn severity, 0 unburned · 1 low · 2 moderate-low · 3 moderate-high · 4 high; 255 = not observed |
 
-A Flooded pixel is flooded cropland when GFM mapped it as flooded in any Sentinel-1 overpass in a geo-cross referenced event. A
-Burnt pixel is burned cropland when it was seen clearly before and after, its dNBR is at least 100 in a geo-cross referenced event where it lies inside the MODIS MCD64A1 burned-area perimeter.
-
-### Before and after imagery
-
-| | $\color{#185FA5}{\blacksquare}$ Flooded crop | $\color{#d7191c}{\blacksquare}$ Burnt crop |
-|:--|:---|:---|
-| Sentinel-2 before | the scene clearest over the chip, 30 days before the event | clearest-first mosaic, 110 to 8 days before the first burn day |
-| Sentinel-2 after | the scene clearest over the chip, 30 days after the event | clearest-first mosaic, 10 to 75 days after the last burn day |
-| Sentinel-1 before | the nearest scene, 30 days before the event | nearest-first , up to 60 days before the first burn day − 5 days |
-| Sentinel-1 after | the nearest scene on the same pass and orbit, 30 days after | nearest-first , up to 75 days after the last burn day + 8 days |
-
 
 ## Statistics
 
