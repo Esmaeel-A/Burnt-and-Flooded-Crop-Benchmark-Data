@@ -467,7 +467,7 @@ The steps, options and outputs of each pipeline are in its folder's README.
   <img src="figures/logos/Sensland.png" alt="Sensland" height="80">
 </p>
 
-**Funding:** *This research was funded by NASA Disaster Program Grant number#* (to be added).
+**Funding:** *This work was supported by the National Aeronautics and Space Administration (NASA) under Grant NSSC25M7137*.
 
 <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;
