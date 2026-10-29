@@ -85,7 +85,7 @@ images were missing.
 
 Six chips from Niger, Pakistan, China, Brazil, Thailand and Greece, one per event. Columns: 
 Sentinel-2 before and after, Sentinel-1 VV before and after, the label ($\color{#185FA5}{\blacksquare}$ flooded crop, $\color{#639922}{\blacksquare}$ dry cropland
-, $\color{#BA7517}{\blacksquare}$ excluded crop, $\color{#D3D1C7}{\blacksquare}$ non-crop) and flood persistence, the share of valid Sentinel-1 overpasses in which each pixel was flooded. fc is the chip's flooded-cropland share.
+, $\color{#BA7517}{\blacksquare}$ excluded crop, $\color{#D3D1C7}{\blacksquare}$ non-crop) and flood persistence, the share of valid Sentinel-1 overpasses in which each pixel was flooded (low value means short-lived flood, high values standing water). Mean persistence is calculated per chip.  fc is the chip's flooded-cropland share.
 
 ### $\color{#d7191c}{\blacksquare}$ Burnt crop
 
@@ -94,7 +94,7 @@ Sentinel-2 before and after, Sentinel-1 VV before and after, the label ($\color{
 Six chips from Ethiopia, India, China, Brazil, Vietnam and Turkey. Columns:
 Sentinel-2 before and after, Sentinel-1 before and after, the label ($\color{#d7191c}{\blacksquare}$ burned cropland, $\color{#1a9641}{\blacksquare}$ unburned
 cropland, $\color{#fdae61}{\blacksquare}$ excluded crop, $\color{#e8e8e8}{\blacksquare}$ non-cropland) and dNBR burn severity, from 0 (unburned) to 4
-(high).
+(high). Mean severity is calculated per chip. bc is the chip's burnt-cropland share.
 
 
 
