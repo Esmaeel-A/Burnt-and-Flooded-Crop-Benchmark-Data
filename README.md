@@ -1,8 +1,8 @@
-# Burnt & Flooded Crop Benchmark Data (BFC-Bench): 
+# CropDamage-Bench: Global, Phenology-timed Burnt and Flooded Crop Benchmark Data: 
 
-### Global, Phenology-timed, Agriculutral Hazard Benchmark Data for Geosppatial Foundation Models
+Floods and fires impact crops globallay at a massive scale but few datasets exist to train and evaluation Geospatial Foundation Models for crop damage mapping and assessment. CropDamage-Bench maps 75,272 km² of damaged cropland (25,446 km² flooded and 49,826 km² burned) across 2,760 events in 66 countries between 2020 and 2026.
 
-The following pipelines build the satellite image chips of Burnt and Flooded cropland demonstrated in https://doi.org/10.xxxx/axxxxxxxx (in preperation)
+The following pipelines build the satellite image chips of Burnt and Flooded cropland demonstrated in HF repository and https://doi.org/10.xxxx/axxxxxxxx (in preperation)
 The pipelines build one folder per hazard, and include phenological stage along side quality control properties:
 
 ![Events with damaged cropland: 1,297 flood events and 1,463 burn events](figures/global_map.png)
